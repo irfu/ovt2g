@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=Orbit Visualization Tool 2.3
+Encoding=UTF-8
+Exec=/usr/local/bin/ovt
+Icon=ovt
+Name=OVT
+SwallowTitle=Zagolovok vikna
+Terminal=true
+TerminalOptions=
+Type=Application
